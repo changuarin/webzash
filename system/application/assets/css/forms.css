@@ -1,0 +1,27 @@
+body,table{
+	font-family: courier;
+	font-size: 12px;
+	cursor: default;
+}
+.nomargin{margin:0px;}
+
+.tag1{background-color: #D0D0D0;}
+.tag1:hover{background-color: #99FFFF;}
+.tag0{background-color: #F0F0F0;}
+.tag0:hover{background-color: #99FFFF;}
+.w1{width: 250px;}
+
+.tabHeadings{
+	background-color: #0099CC;
+	color: #FFFFFF;
+	padding: 10px 5px 10px 5px;
+}
+
+.tabHeadings:hover{
+	background-color: #00AADD;
+	cursor: pointer;
+}
+
+.divTabs{
+	display: none;
+}
